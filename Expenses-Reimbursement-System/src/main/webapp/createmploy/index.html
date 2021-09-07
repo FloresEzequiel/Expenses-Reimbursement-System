@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create New User</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles/createmp.css">
+</head>
+<body>
+    <nav class =" navbar">
+        <div class = "container-fluid">
+            <a class="navbar-brand">
+                The Best Reimbursement Application (not counting this batch)
+            </a>
+        </div>
+    </nav>
+    <div class="spac"></div>
+    <div class="register-new">
+        <form id="register-form">
+            <div>
+                
+                <input type ="text" id="username" placeholder="Username"/>
+            </div>
+            <div>
+                <input type = "text" id="password" placeholder="Password"/>
+            </div>
+            <div>
+                <input type = "text" id="fname" placeholder="First Name">
+            </div>
+            <div>
+                <input type = "text" id="lname" placeholder="Last Name">
+            </div>
+            <div>
+                <input type = "text" id="email" placeholder="Email">
+            </div>
+
+            <div id="ty">
+                <label for="type">Select A type: </label>
+                <select id ="type">
+                    <option value="1" >Finance Manager</option>
+                    <option value="2" selected>Employee</option>
+                    
+                </select>
+            </div>
+        
+            <div>
+               <button class="btn btn-success" id="create-btn">Create</button>
+            </div>
+        </form>
+    </div>
+
+
+
+
+
+
+    <script src="../scripts/createuser.js"></script>
+    <script src="../scripts/globals.js"></script>
+</body>
+</html>

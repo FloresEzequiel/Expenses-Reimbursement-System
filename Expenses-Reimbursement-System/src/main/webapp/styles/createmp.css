@@ -1,0 +1,72 @@
+body{
+    background-color: #49BCF6;
+}
+.navbar{
+    background: #05005C;
+   
+}
+
+.register-new{ 
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#login-btn:hover{
+
+    background-color: green;
+    transition: 300ms;
+}
+
+.spac{
+    height: 100px;
+}
+
+#register-form{
+    width: 300px;
+    background: #32B7C8;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px #6ACCDB;
+    padding: 10px;
+}
+
+
+#username{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+    
+}
+
+#password{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#fname{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+#lname{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+#email{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#register-form div{
+    margin: 10px;
+}
+
+
+#ty{
+    text-align: center;
+
+}

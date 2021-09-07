@@ -1,0 +1,46 @@
+body{
+    background-color: #49BCF6;
+}
+.navbar{
+    background: #05005C;
+   
+}
+.register-new{ 
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#login-btn:hover{
+
+    background-color: green;
+    transition: 300ms;
+}
+
+.spac{
+    height: 100px;
+}
+
+#register-form{
+    width: 300px;
+    background: #32B7C8;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px #6ACCDB;
+    padding: 10px;
+}
+#amount{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#description{
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+}
+#ty{
+    text-align: center;
+
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: #49BCF6;
+}
+
+.navbar{
+    background: #05005C;
+   
+}
+.container{
+    display: flex;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+
+}
+th{
+   
+    background: #747474;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+
+td{
+    text-align: center;
+    background: #D1D1D1;
+    padding: 10px 10px;
+    border-bottom:2px solid black;
+}
+table{
+    border: #49BCF6;
+    border-style:solid;
+    border-radius: 16px;
+    
+}
+.create-flex{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,61 @@
+body{
+    background-color: #49BCF6;
+    
+}
+
+
+/* space between the div tags*/
+#login-form div{
+    margin: 5px;
+  
+}
+
+/* the containers position*/
+.login-c{ 
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+
+.navbar{
+    background: #05005C;
+}
+/*  #32B8CB  */
+/* changes color to button when you hover over it*/
+#create-btn:hover{
+    background-color: rgba(255, 72, 0, 0.568);
+    transition: 300ms;
+    
+}
+
+#login-form{
+    width: 300px;
+    background: #32B7C8;
+    border-radius: 6px;
+    box-shadow: 2px 2px 2px 2px #6ACCDB;
+    padding: 10px;
+}
+
+#username{
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+    
+}
+
+#password{
+    border-radius: 6px;
+    text-align: center;
+    width: 100%;
+}
+.bt-div{
+    text-align: center;
+}
+
+#space{
+    height: 100px;
+}

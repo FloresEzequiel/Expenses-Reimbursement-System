@@ -1,0 +1,53 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "timestamp".(À‚–™ùÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "st".(à«¾şÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "ll".(­‡å·ûÿÿÿÿ
+X
+java:S1854"6Remove this useless assignment to local variable "ff".(şôöºÿÿÿÿÿ8İ°®¸/
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+Q	java:S125"<This block of commented-out lines of code should be removed.(œ»Ùü
+I
+java:S1481"'Remove this unused "ff" local variable.(şôöºÿÿÿÿÿ8Ş°®¸/
+B
+java:S1481"'Remove this unused "ll" local variable.(­‡å·ûÿÿÿÿ
+B
+java:S1481"'Remove this unused "st" local variable.(à«¾şÿÿÿÿ
+I
+java:S1481".Remove this unused "timestamp" local variable.(À‚–™ùÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(Ù¡î¸ıÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(§‹‚Á
+X	java:S125$"<This block of commented-out lines of code should be removed.(Ë¥ù‘8ß°®¸/
+V	java:S125&"<This block of commented-out lines of code should be removed.(¦»ÊÈúÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(òš‚Ìøÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(­¸Çóùÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(–¡Àñúÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.( ÔÇşÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(“®Ã
+V	java:S1258"<This block of commented-out lines of code should be removed.(›æ•´øÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(¿‹±òıÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ö¼Ù§ûÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¿ÉÈŸ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(”ßÁõúÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(üÚ’­
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(òÒš»ûÿÿÿÿ
+€
+java:S1128	"eRemove this unused import 'org.postgresql.shaded.com.ongres.scram.common.bouncycastle.base64.Base64'.(¢ÙâÕıÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû
+T
+java:S1128"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
+O
+java:S1128":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+@
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Reimbursement menu</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles/register.css">
+</head>
+<body>
+    <nav class =" navbar">
+        <div class = "container-fluid">
+            <a class="navbar-brand">
+                The Best Reimbursement Application (not counting this batch)
+            </a>
+        </div>
+    </nav>
+
+    <div class="spac"></div>
+
+    <div class="register-new">
+        <form id="register-form">
+            <div>
+                <input type ="text" id="amount" placeholder="Amount"/>
+            </div>
+            <div>
+                <input type = "text" id="description" placeholder="Description"/>
+            </div>
+            <div id="ty">
+                <label for="type">Select A type: </label>
+                <select id ="type">
+                    <option value="1" selected>Lodging</option>
+                    <option value="2">Travel</option>
+                    <option value="3">Food</option>
+                </select>
+            </div>
+           <!-- <div>
+                <input type="file" id="receipt">
+            </div>-->
+            <div>
+               <button class="btn btn-success" id="create-btn">Create</button>
+            </div>
+           <!-- <div>
+                <img id="ItemPreview" src="">
+            </div>-->
+        </form>
+    </div>
+
+
+
+
+    <script src="../scripts/register.js"></script>
+    <script src="../scripts/globals.js"></script>
+</body>
+</html>
