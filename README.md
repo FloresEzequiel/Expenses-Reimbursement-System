@@ -19,7 +19,7 @@ To-do list:
 * Add a feature that allows FInance managers to view the image of the receipt of the reimbursement request
 
 ## Getting Started
-![Screenshot](tomcat.png) 
+![tomcat]tomcat.PNG) 
 
 ## Usage
 
