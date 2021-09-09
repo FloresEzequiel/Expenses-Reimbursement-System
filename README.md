@@ -29,6 +29,8 @@ To-do list:
 * Set the Admin port to 9005 
 * Add the pathing of the webapp folder to the Deployment Directory by clicking the folder image beside it as you can see in the tomcat.png
 ![Screenshot](tomcat.PNG) 
+*
+![Screenshot]() 
 
 ## Usage
 
