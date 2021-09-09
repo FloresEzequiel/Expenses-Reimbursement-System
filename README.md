@@ -34,6 +34,7 @@ To-do list:
 * Open a script in that database and run the scripts that can be seen in images
 
 * After you run each script you should have the following tables that are in image tables.png
+![Screenshot](tables.PNG) 
 
 * Next go to the file location that you can see in EditConnection.PNG image
 * Once there you are going to need to add your Amazon AWS database connection information here
