@@ -19,6 +19,15 @@ To-do list:
 * Add a feature that allows FInance managers to view the image of the receipt of the reimbursement request
 
 ## Getting Started
+* Install DBeaver and link your Amazon AWS Database
+* Install TomCat
+* Download the project and open it with Intelliji
+* Once The project is open, add a TomCat configuration
+* Given any name to the configuration in the Name: section as you can see in the image tomcat.png
+* Then in Tomcat Server select the option thats in the image tomcat.png
+* Set the Server port to 9000
+* Set the Admin port to 9005 
+* Add the pathing of the webapp folder to the Deployment Directory by clicking the folder image beside it as you can see in the tomcat.png
 ![Screenshot](tomcat.PNG) 
 
 ## Usage
