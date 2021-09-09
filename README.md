@@ -31,9 +31,10 @@ To-do list:
 ![Screenshot](tomcat.PNG) 
 
 * Next go to DBeaver and create a new database with the name reimbursement_db
-* Open a script in that database and run the scripts that can be seen in images
+* Open a script in that database and run the code that can be seen in the sqlscript.png image (ctrl+enter after each ;)
+![Screenshot](sqlscript.PNG) 
 
-* After you run each script you should have the following tables that are in image tables.png
+* After you run the script you should have the following tables that are in image tables.png
 ![Screenshot](tables.PNG) 
 
 * Next go to the file location that you can see in EditConnection.PNG image
@@ -41,6 +42,7 @@ To-do list:
 * In the url variable you are going to add your database url and /database name, in the variable username your are going to add your username and lastly add your password to the password variable 
 ![Screenshot](EditConnection.PNG) 
 
+* Once that is set up hit the run button to run the application (you can see which one in the image)
 ## Usage
 
 
