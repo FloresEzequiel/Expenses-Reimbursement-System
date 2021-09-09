@@ -29,8 +29,16 @@ To-do list:
 * Set the Admin port to 9005 
 * Add the pathing of the webapp folder to the Deployment Directory by clicking the folder image beside it as you can see in the tomcat.png
 ![Screenshot](tomcat.PNG) 
-*
-![Screenshot]() 
+
+* Next go to DBeaver and create a new database with the name reimbursement_db
+* Open a script in that database and run the scripts that can be seen in images
+
+* After you run each script you should have the following tables that are in image tables.png
+
+* Next go to the file location that you can see in EditConnection.PNG image
+* Once there you are going to need to add your Amazon AWS database connection information here
+* In the url variable you are going to add your database url and /database name, in the variable username your are going to add your username and lastly add your password to the password variable 
+![Screenshot](EditConnection.PNG) 
 
 ## Usage
 
