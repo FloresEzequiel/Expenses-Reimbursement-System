@@ -63,5 +63,6 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 ![Screenshot](manager.PNG)
 
 
-![Screenshot](manager.PNG)
-* To create a user just scroll down and click the 
+![Screenshot](operations.PNG)
+* To create a user just scroll down until you see the differents buttons (operations.png image) and click the create user green button. This will take you to the create user menu where you can create a user (newUser.png image).
+![Screenshot](newUser.PNG)
