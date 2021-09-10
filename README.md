@@ -68,4 +68,8 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 * To create a user just scroll down until you see the differents buttons (operations.png image) and click the create user green button. This will take you to the create user menu where you can create a user (newUser.png image).
 ![Screenshot](newUser.PNG)
 
-* To see your own resolved reimbursement requests you can click on the see your reimbursement request yellow button and it will take you to the menu that you can see in the 
+* To see your own resolved reimbursement requests you can click on the see your reimbursement request yellow button and it will take you to the menu from the yourrequest.png image. In this menu you can either see your resolved requests or denied requests by click the red or green button
+
+![Screenshot](yourrequest.PNG)
+
+
