@@ -13,6 +13,7 @@ The Expense Reimbursement System will manage the process of reimbursing employee
 * Finance managers can log in and view all pending and resolved reimbursement requests of all the employees
 * All passwords are encrytped in the database
 * Finance managers are authorized to approve and deny requests for expense reimbursement
+* To reorganize the different reimbursement requests you can just click on the table headings, you can do this with the headings: resolved date, status, submitted date, amount and reimbursement id
 
 To-do list:
 * Add a feature that will allow employees to submite an image of a receipt
@@ -66,3 +67,5 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 ![Screenshot](operations.PNG)
 * To create a user just scroll down until you see the differents buttons (operations.png image) and click the create user green button. This will take you to the create user menu where you can create a user (newUser.png image).
 ![Screenshot](newUser.PNG)
+
+* To see your own resolved reimbursement requests you can click on the see your reimbursement request yellow button and it will take you to the menu that you can see in the 
