@@ -72,4 +72,6 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 
 ![Screenshot](yourrequest.PNG)
 
+![Screenshot](yourrequest2.PNG)
+
 
