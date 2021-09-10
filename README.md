@@ -58,4 +58,10 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 
 ![Screenshot](create.PNG)
 
-* When you login in as a Finance Manager it will take you to the Finance Manager menu (you can see it in image), in this menu you can see all of the resolved and pending request from all of the Employees.
+* When you login in as a Finance Manager it will take you to the Finance Manager menu (you can see it in the manager.png image), in this menu you can see all of the resolved and pending request from all of the Employees. To aprove or deny a request you just need to click either the approve or deny button.
+
+![Screenshot](manager.PNG)
+
+
+![Screenshot](manager.PNG)
+* To create a user just scroll down and click the 
