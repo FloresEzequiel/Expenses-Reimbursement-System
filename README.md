@@ -42,7 +42,11 @@ To-do list:
 * In the url variable you are going to add your database url and /database name, in the variable username your are going to add your username and lastly add your password to the password variable 
 ![Screenshot](EditConnection.PNG) 
 
-* Once that is set up hit the run button to run the application (you can see which one in the image)
+* Once that is set up select the tomCat configuration and hit the run button to run the application (you can see which button to press in the runApp.png image)
+
+![Screenshot](runApp.PNG) 
+
+The go to your web browser and type: http://localhost:9000/ and it should take you to the start of the programm as you can see in the image
 ## Usage
 
 
