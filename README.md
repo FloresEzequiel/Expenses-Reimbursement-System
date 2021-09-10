@@ -46,7 +46,10 @@ To-do list:
 
 ![Screenshot](runApp.PNG) 
 
-The go to your web browser and type: http://localhost:9000/ and it should take you to the start of the programm as you can see in the image
-## Usage
+The go to your web browser and type: http://localhost:9000/ and it should take you to the start of the programm as you can see in the start.png image
+![Screenshot](start.PNG)
 
+## Usage
+* The program starts when you run the programm and go to the web browser and type http://localhost:9000/. This will take you to the begin of the prgramm (you can see it in the start.png image)
+* When you login as a Employee it will take you to the Employee menu (you can see it in the) where you can see all of your pending and resolved reimbursement requests. 
 
