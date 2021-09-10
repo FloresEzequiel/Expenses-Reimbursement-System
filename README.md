@@ -51,5 +51,9 @@ The go to your web browser and type: http://localhost:9000/ and it should take y
 
 ## Usage
 * The program starts when you run the programm and go to the web browser and type http://localhost:9000/. This will take you to the begin of the prgramm (you can see it in the start.png image)
-* When you login as a Employee it will take you to the Employee menu (you can see it in the) where you can see all of your pending and resolved reimbursement requests. 
+* When you login as a Employee it will take you to the Employee menu (you can see it in the Employ.png image) where you can see all of your pending and resolved reimbursement requests. 
 
+![Screenshot](Employ.PNG) 
+* You can also create a reimbursement ticket by clicking the green create a ticket button, and it will take you to the create a ticket menu (you can see it in the create.png image).
+
+![Screenshot](Employ.PNG)
